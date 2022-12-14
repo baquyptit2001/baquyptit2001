@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baquyptit2001
 - 👀 I’m interested in coding and solving problems
 - 🌱 I’m currently learning Laravel and VueJS
-- 💞️ I’m looking to collaborate on an internship
+- 💞️ I’m currently a PHP dev with 1 year exp
 - 📫 How to reach me:
   +email: quynb201@gmail.com
   +phone: +84 973 043 445
